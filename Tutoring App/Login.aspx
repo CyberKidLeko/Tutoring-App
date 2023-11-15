@@ -36,7 +36,7 @@
             <tr>
                 <td class="auto-style1">&nbsp;</td>
                 <td class="auto-style5">
-                    <asp:Label ID="Label3" runat="server" CssClass="auto-style6" Text="Login"></asp:Label>
+                    <asp:Label ID="Label3" runat="server" CssClass="auto-style6" Text="Hello"></asp:Label>
                 </td>
                 <td class="auto-style4">&nbsp;</td>
             </tr>
